@@ -5,7 +5,6 @@ import (
 	"github.com/nomadcoders/nomadcoin/utils"
 )
 
-
 const (
 	dbName       = "blockchain.db"
 	dataBucket   = "data"
